@@ -66,10 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpaul99&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </p>
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashishpaul99&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ### 💹 Contribution Graph
 <p align="center">

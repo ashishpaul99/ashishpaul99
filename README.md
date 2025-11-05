@@ -67,12 +67,6 @@ Looking to join a **growth-focused team** where I can **build, learn, and contri
 </p>
 
 
-### 💹 Contribution Graph
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishpaul99&theme=tokyonight" alt="Activity Graph" />
-</p>
-
-
 ### 🤝 Let’s Connect & Build Something Great!
 Feel free to reach out for collaboration, freelance opportunities, or discussions ✨
 

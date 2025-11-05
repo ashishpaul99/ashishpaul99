@@ -1,50 +1,66 @@
 # Hi there 👋 I'm **Ashish G**
 
-💡 **Full Stack Developer** with 3 years of experience building scalable, user-focused web applications.  
-💻 I work across both **Frontend & Backend** — mainly with **MERN** and **Next.js** ecosystems.  
-🚀 Passionate about clean UI, secure backend architecture, and real-world product development.
+💡 **Full Stack Developer** with 3 years of experience building scalable and user-centered web applications.  
+💻 I work across both **frontend and backend** — mainly with **MERN** & **Next.js** ecosystems.  
+🚀 Passionate about clean UI, secure backend architecture, and building real-world impactful products.
 
 ---
 
-### 🌟 About Me
-- 🏗️ I build full-stack applications end-to-end.
-- 🔐 Strong focus on **authentication**, security, API design & performance.
-- 🎯 Love solving problems and continuously improving product quality.
-- 📍 Based in **Hyderabad, India**
+### 🌍 About Me
+- 🔧 I build **end-to-end web applications** using MERN & Next.js.
+- 🔐 Strong focus on **authentication**, **session security**, and **API architecture**.
+- 📦 Comfortable deploying production-ready apps and optimizing performance.
+- 📬 Based in **Hyderabad, India**.
 
 ---
 
-<h3 align="left"> ⚙️ Tech Stack I Work With </h3>
+### ⚙️ Tech Stack I Work With
+
 <p align="left">
 
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
 
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
 
   <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
+</p>
 
 ---
 
-### 📫 Reach Me At
-📍 Hyderabad  
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishpaul99&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpaul99&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashishpaul99&theme=tokyonight" />
+</p>
+
+---
+
+### 📬 Contact Me
+
+📍 Hyderabad, India  
 📞 8500655472  
 📧 **ashishpaul1199@gmail.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ashishgaddala  
@@ -52,12 +68,9 @@
 
 ---
 
-### ✨ What I’m Doing Now
-- Learning deeper system design & backend architecture
-- Improving full-stack project deployment workflows
-- Preparing for product-based engineering roles
+### 🤝 Open to Opportunities
+Looking to join a **growth-focused team** where I can **build, learn, and contribute** to meaningful projects.
 
----
 
 ### 📊 GitHub Stats
 

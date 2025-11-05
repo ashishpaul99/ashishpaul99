@@ -59,10 +59,6 @@ Looking to join a **growth-focused team** where I can **build, learn, and contri
 
 ---
 
-### 🤝 Open to Opportunities
-Looking to join a **growth-focused team** where I can **build, learn, and contribute** to meaningful projects.
-
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -73,7 +69,7 @@ Looking to join a **growth-focused team** where I can **build, learn, and contri
 
 ### 💹 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishpaul99&theme=tokyo-night" alt="Activity Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishpaul99&theme=tokyonight" alt="Activity Graph" />
 </p>
 
 

@@ -16,17 +16,14 @@
 
 ### ⚙️ Tech Stack I Work With
 
-**Frontend:**  
-`React` `Next.js` `TypeScript` `JavaScript` `Redux Toolkit` `Tailwind CSS` `Shadcn UI` `HTML` `CSS`
-
-**Backend:**  
-`Node.js` `Express.js` `REST APIs`
-
-**Database:**  
-`MongoDB` `PostgreSQL`
-
-**Tools & Platforms:**  
-`Git` `GitHub` `Postman` `VS Code` `npm`
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
+Database
+<p> <img src="https://skillicons.dev/icons?i=mongodb,postgres" /> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" /> </p>
 
 ---
 

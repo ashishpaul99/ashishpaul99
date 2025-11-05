@@ -43,21 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishpaul99&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpaul99&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashishpaul99&theme=tokyonight" />
-</p>
-
----
-
 ### 📬 Contact Me
 
 📍 Hyderabad, India  

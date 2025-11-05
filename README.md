@@ -59,6 +59,24 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishpaul99&show_icons=true&theme=tokyonight" alt="Ashish's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpaul99&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+</p>
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashishpaul99&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+### 💹 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishpaul99&theme=tokyo-night" alt="Activity Graph" />
+</p>
+
+
 ### 🤝 Let’s Connect & Build Something Great!
 Feel free to reach out for collaboration, freelance opportunities, or discussions ✨
 

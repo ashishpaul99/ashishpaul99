@@ -19,7 +19,7 @@ Looking to join a **growth-focused team** where I can **build, learn, and contri
 
 🎯 I am currently looking for opportunities as a **Full Stack** or **Frontend Developer**.
 
-
+---
 ### ⚙️ Tech Stack I Work With
 
 <p align="left">
